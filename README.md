@@ -20,7 +20,7 @@ Autonomous movement with obstacle avoidance
 ```
 📂 Webots-Obstacle-Avoidance-Robot/
  ├── 📂 worlds/          # Webots world file
- ├── 📂 controllers/     # Python controller for the robot
+ ├── 📂 controllers/     # Python or c++ controller for the robot
  ├── 📂 robots/          # Robot model files
  ├── README.md           # Project documentation
 ```
